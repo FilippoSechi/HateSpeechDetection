@@ -152,3 +152,5 @@ cython_debug/
 #.idea/
 data_huang_devansh.csv
 preprocessed_data.csv
+X_train_resampled.csv
+y_train_resampled.csv
